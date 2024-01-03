@@ -9,11 +9,11 @@ This application allows you to manage your bank account with ease. Here's a quic
 1. **Login Credentials:**
     Five Usernames and Pins 
    - **(Username-Pin)**
-     rk-1111
-     jd-2222
-     stw-3333
-     ss-4444
-     pd-9168
+     - rk-1111 
+     - jd-2222
+     - stw-3333
+     - ss-4444
+     - pd-9168
 2. **Welcome screen:**
    - After successful login, you'll see your current balance and a welcome message.
 
